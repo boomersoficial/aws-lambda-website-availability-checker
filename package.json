@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wylliambastiani/aws-lambda-website-availability-checker.git"
+    "url": "git+https://github.com/boomersoficial/aws-lambda-website-availability-checker.git"
   },
   "author": "Boomers Tecnologia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wylliambastiani/aws-lambda-website-availability-checker/issues"
+    "url": "https://github.com/boomersoficial/aws-lambda-website-availability-checker/issues"
   },
-  "homepage": "https://github.com/wylliambastiani/aws-lambda-website-availability-checker#readme",
+  "homepage": "https://github.com/boomersoficial/aws-lambda-website-availability-checker#readme",
   "dependencies": {
     "aws-sdk": "^2.410.0",
     "node-fetch": "^2.3.0"
