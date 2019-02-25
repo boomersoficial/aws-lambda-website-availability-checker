@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/wylliambastiani/aws-lambda-website-availability-checker.git"
   },
-  "author": "",
+  "author": "Boomers Tecnologia",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wylliambastiani/aws-lambda-website-availability-checker/issues"
