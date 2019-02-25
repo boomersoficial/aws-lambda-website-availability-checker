@@ -1,0 +1,23 @@
+{
+  "name": "aws-lambda-website-availability-checker",
+  "version": "1.0.0",
+  "description": "AWS Lambda function that pushes ok/not-ok metrics to cloudwatch about an website availability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wylliambastiani/aws-lambda-website-availability-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wylliambastiani/aws-lambda-website-availability-checker/issues"
+  },
+  "homepage": "https://github.com/wylliambastiani/aws-lambda-website-availability-checker#readme",
+  "dependencies": {
+    "aws-sdk": "^2.410.0",
+    "node-fetch": "^2.3.0"
+  }
+}
